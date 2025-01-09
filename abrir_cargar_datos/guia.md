@@ -13,7 +13,7 @@
 - Emplear herramientras de filtrado y reemplazamiento de valores en función a condiciones lógicas.
 - Profundizar en la creación de tablas para el conocimiento descriptivo de los datos.
 
-### Indicadiones para funcionabilidad de dofile
+### Indicadiones para la funcionabilidad de dofile
 
 Para garantizar la funcionabilidad del dofile compartido debe reemplazar correctamente su ruta de trabajo en lugar
 de la siguiente declaración presente en el dofile: 
