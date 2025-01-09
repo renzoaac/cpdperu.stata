@@ -6,18 +6,22 @@
 
 *----------------------------GUÍA---------------------------*
 
-Para la carga de datos externa debe asegurarse:
+Para garantizar la funcionabilidad del dofile compartido
+debe reemplazar correctamente su ruta de trabajo en lugar
+de la siguiente declaración presente en el dofile:
 
-Los cuatro (4) archivos que contienen la data ubicados en la
-carpeta "abrir_cargar_datos" del presente repositorio:
+cd "D:(...)\abrir_cargar_datos"
+
+Para ello, debe tener los cuatro (4) archivos ubicados en la
+carpeta "abrir_cargar_datos" los cuales son:
 
 anemia_15
 serie_temp
 epe_1trim
 sumaria-2020
 
-Deben estar contenidos en una única ruta. En mi caso, he
-optado por crear la siguiente carpeta para albergar estos
+Estos deben estar contenidos en una única ruta. En mi caso, he
+optado por crear la siguiente ruta para albergar estos
 archivos:
 
 C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos
@@ -27,9 +31,5 @@ la declaración del comando cd:
 
 cd "C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos"                     
 
-Así, para garantizar la funcionabilidad del código, debe 
-colocarlo en lugar de la declaración que encontrará dentro
-del dofile compartido:
 
-cd "D:(...)\abrir_cargar_datos"
 
