@@ -2,7 +2,7 @@
 ## GUÍA
 
 Para garantizar la funcionabilidad del dofile compartido debe reemplazar correctamente su ruta de trabajo en lugar
-de la siguiente declaración presente en el dofile: \
+de la siguiente declaración presente en el dofile: 
 
 cd "D:(...)\abrir_cargar_datos"
 
