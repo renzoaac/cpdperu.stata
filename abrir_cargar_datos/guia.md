@@ -3,6 +3,7 @@
 
 ### ¿Qué aprenderé en esta sesión?
 
+- Conocer el entorno del software y la estructura de los datos.
 - Abrir datos internos y externos al software en múltiples formatos: CSV., XLSX., DTA., DBF., y SAV..
 - Programar algunos comandos básicos del software como la tabulación, creación de tablas, gráficos, entre otros.
 
@@ -33,5 +34,9 @@ C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos
 
 Esta última debe estar incluida en la ruta de trabajo luego de la declaración del comando cd: 
 
-cd "C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos"                     
+cd "C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos" 
+
+### Contacto:
+
+Para mayor información o asesorías consulte al correo: cpdperu.contacto@gmail.com
 
