@@ -1,5 +1,5 @@
-# COMUNIDAD PARA EL DESARROLLO
-## GUIA
+# GUIA
+## COMUNIDAD PARA EL DESARROLLO
 
 ### ¿Qué aprenderé en esta sesión?
 
