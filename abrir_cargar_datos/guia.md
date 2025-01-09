@@ -14,11 +14,11 @@ epe_1trim \
 sumaria-2020 
 
 Estos deben estar contenidos en una única ruta. En mi caso, he optado por crear la siguiente ruta para albergar estos
-archivos: \
+archivos: 
 
-C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos \
+C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos 
 
-Esta última debe estar incluida en la ruta de trabajo luego de la declaración del comando cd: \
+Esta última debe estar incluida en la ruta de trabajo luego de la declaración del comando cd: 
 
 cd "C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos"                     
 
