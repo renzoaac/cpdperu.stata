@@ -1,0 +1,35 @@
+*************************************************************
+*--------------COMUNIDAD PARA EL DESARROLLO-----------------*
+*----------------cpdperu.contacto@gmail.com-----------------*
+*--------------Prof. Renzo Álvarez Carcheri-----------------*
+*************************************************************
+
+*----------------------------GUÍA---------------------------*
+
+Para la carga de datos externa debe asegurarse que:
+
+Los cuatro (4) archivos que contienen la data ubicados en la
+carpeta "abrir_cargar_datos" del presente repositorio:
+
+anemia_15
+serie_temp
+epe_1trim
+sumaria-2020
+
+Deben estar contenidos en una única ruta. En mi caso, he
+optado por crear la siguiente carpeta para albergar estos
+archivos:
+
+C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos
+
+Esta última debe estar incluida en la ruta de trabajo luego de
+la declaración del comando cd:
+
+cd "C:\Users\renzo\OneDrive\Stata\abrir_cargar_datos"                     
+
+Así, para garantizar la funcionabilidad del código, debe 
+colocarlo en lugar de la declaración que encontrará dentro
+del dofile compartido:
+
+cd "D:(...)\abrir_cargar_datos"
+
