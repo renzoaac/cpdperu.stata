@@ -11,7 +11,7 @@ Para ello, debe tener los cuatro (4) archivos ubicados en la carpeta "abrir_carg
 anemia_15 \
 serie_temp \
 epe_1trim \
-sumaria-2020 \
+sumaria-2020 
 
 Estos deben estar contenidos en una única ruta. En mi caso, he optado por crear la siguiente ruta para albergar estos
 archivos: \
