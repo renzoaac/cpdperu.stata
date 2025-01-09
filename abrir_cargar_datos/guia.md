@@ -1,6 +1,13 @@
 # COMUNIDAD PARA EL DESARROLLO
 ## GUÍA DE USO
-### cpdperu.contacto@gmail.com
+
+### ¿Qué aprenderé en esta sesión?
+
+
+
+### ¿Que aprenderé en la próxima sesión?
+
+### Indicadiones para funcionabilidad de dofile
 
 Para garantizar la funcionabilidad del dofile compartido debe reemplazar correctamente su ruta de trabajo en lugar
 de la siguiente declaración presente en el dofile: 
