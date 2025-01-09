@@ -4,10 +4,12 @@
 ### ¿Qué aprenderé en esta sesión?
 
 En esta sección aprenderé a:
-- Abrir datos internos y externos al software en múltiples formatos: CSV. XLSX. DTA. DBF. y SAV..
+- Abrir datos internos y externos al software en múltiples formatos: CSV., XLSX., DTA., DBF., y SAV..
 - Programar algunos comandos básicos del software como la tabulación, creación de tablas, gráficos, entre otros.
 
 ### ¿Que aprenderé en la próxima sesión?
+
+
 
 ### Indicadiones para funcionabilidad de dofile
 
