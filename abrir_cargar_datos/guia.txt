@@ -6,7 +6,7 @@
 
 *----------------------------GUÍA---------------------------*
 
-Para la carga de datos externa debe asegurarse que:
+Para la carga de datos externa debe asegurarse:
 
 Los cuatro (4) archivos que contienen la data ubicados en la
 carpeta "abrir_cargar_datos" del presente repositorio:
