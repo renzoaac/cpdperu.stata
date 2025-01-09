@@ -6,7 +6,7 @@ de la siguiente declaración presente en el dofile:
 
 cd "D:(...)\abrir_cargar_datos"
 
-Para ello, debe tener los cuatro (4) archivos ubicados en la carpeta "abrir_cargar_datos" los cuales son: \
+Para ello, debe tener los cuatro (4) archivos ubicados en la carpeta "abrir_cargar_datos" los cuales son: 
 
 anemia_15 \
 serie_temp \
